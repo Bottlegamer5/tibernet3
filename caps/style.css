@@ -24,7 +24,7 @@ table, th, td {
   animation: glow 1s ease-in-out infinite alternate;
 }
 
-ul, ol, p {
+p {
   font-size: 45px;
   border-color: white;
   border-radius: 25px;
@@ -43,7 +43,7 @@ ul, ol, p {
   animation: glow 1s ease-in-out infinite alternate;
 }
 
-a {
+ul, ol, a {
   font-size: 16px;
   border-color: white;
   border-radius: 15px;
