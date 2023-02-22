@@ -118,11 +118,12 @@ body {
      color: white;
 }
  a {
-     background-color: rgb(61, 61, 61);
+     background-color: black;
      margin-bottom: 10px;
      width: 200px;
      height: 45px;
      border-radius: 5px;
+     border-color: rgb(61, 61, 61);
      color: white;
      font-size: 20px;
      transition: font-size 0.3s, box-shadow 0.3s, Width 0.2s, background-color 0.3s;
