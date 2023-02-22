@@ -156,3 +156,7 @@ a:hover {
         font-size: 21px;
         cursor: pointer;
 }
+
+a:active {
+        background-color: rgb(118, 227, 108);
+}
