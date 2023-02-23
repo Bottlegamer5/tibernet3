@@ -24,6 +24,10 @@ table, th, td {
   animation: glow 1s ease-in-out infinite alternate;
 }
 
+.halfsize {
+  width: 50%;
+}
+
 p {
   font-size: 45px;
   border-color: white;
