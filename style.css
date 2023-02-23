@@ -140,7 +140,8 @@ body {
      width: 300px;
      font-size: 21px;
      cursor: pointer;
+     background-color: red;
 }
  a:active {
-     background-color: red;
+     background-color: darkred;
 }
